@@ -1,1 +1,1 @@
-# fyp_SVNIT
+# Final year project on Image Dehazing
